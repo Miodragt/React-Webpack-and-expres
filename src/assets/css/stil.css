@@ -1,0 +1,44 @@
+.mojaKlaca{
+
+    height: 100%;
+    font-size: 30px;
+    padding: 10px;
+    color: coral;
+}
+table{
+    border: solid 3px darkred;
+
+    }
+td{
+    padding: 20px;
+    font-size: 25px;
+    color: #c01cd2;
+    background-color: #999999;
+}
+th{
+    border-bottom: solid 2px darkblue;
+}
+.jumbotron{
+
+    background-size: cover;
+    font-size: 25px;
+   color: darkblue;
+    padding-bottom:20px;
+}
+.jumbotron button{
+    margin-right: 30px;
+    border-radius: 30%;
+}
+
+.jumbotron p{color: #c01cd2;
+    font-size: 25px;
+}
+.futer p{
+    color: #ff191a;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#futer{
+
+}
