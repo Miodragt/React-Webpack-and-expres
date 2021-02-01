@@ -38,4 +38,7 @@ NPM run commands can be shortened:
 concurrently "npm:watch-js" "npm:watch-css" "npm:watch-node"
  
 # Equivalent to: 
-concurrently -n watch-js,watch-css,watch-node "npm run watch-js" "npm run wa
+concurrently -n watch-js,watch-css,watch-node "npm run watch-js" "npm run watch
+
+Lokal host tokom starta je na portu 80 i folderu dist, pa se tu moze postaviti i folder za slike 
+koje se koriste u aplikaciji
